@@ -1,0 +1,20 @@
+c:\Users\Admin\Desktop\task tracker\obj\Debug\net6.0\TaskKilltracker.csproj.AssemblyReference.cache
+c:\Users\Admin\Desktop\task tracker\obj\Debug\net6.0\TaskKilltracker.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Admin\Desktop\task tracker\obj\Debug\net6.0\TaskKilltracker.AssemblyInfoInputs.cache
+c:\Users\Admin\Desktop\task tracker\obj\Debug\net6.0\TaskKilltracker.AssemblyInfo.cs
+c:\Users\Admin\Desktop\task tracker\obj\Debug\net6.0\TaskKilltracker.csproj.CoreCompileInputs.cache
+c:\Users\Admin\Desktop\task tracker\bin\Debug\net6.0\TaskKillTracker.deps.json
+c:\Users\Admin\Desktop\task tracker\bin\Debug\net6.0\TaskKillTracker.dll
+c:\Users\Admin\Desktop\task tracker\obj\Debug\net6.0\TaskKillTracker.dll
+c:\Users\Admin\Desktop\task tracker\obj\Debug\net6.0\refint\TaskKillTracker.dll
+c:\Users\Admin\Desktop\task tracker\obj\Debug\net6.0\ref\TaskKillTracker.dll
+c:\Users\Admin\Desktop\im makin mods LOL\task tracker\bin\Debug\net6.0\TaskKillTracker.deps.json
+c:\Users\Admin\Desktop\im makin mods LOL\task tracker\bin\Debug\net6.0\TaskKillTracker.dll
+c:\Users\Admin\Desktop\im makin mods LOL\task tracker\obj\Debug\net6.0\TaskKilltracker.csproj.AssemblyReference.cache
+c:\Users\Admin\Desktop\im makin mods LOL\task tracker\obj\Debug\net6.0\TaskKilltracker.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Admin\Desktop\im makin mods LOL\task tracker\obj\Debug\net6.0\TaskKilltracker.AssemblyInfoInputs.cache
+c:\Users\Admin\Desktop\im makin mods LOL\task tracker\obj\Debug\net6.0\TaskKilltracker.AssemblyInfo.cs
+c:\Users\Admin\Desktop\im makin mods LOL\task tracker\obj\Debug\net6.0\TaskKilltracker.csproj.CoreCompileInputs.cache
+c:\Users\Admin\Desktop\im makin mods LOL\task tracker\obj\Debug\net6.0\TaskKillTracker.dll
+c:\Users\Admin\Desktop\im makin mods LOL\task tracker\obj\Debug\net6.0\refint\TaskKillTracker.dll
+c:\Users\Admin\Desktop\im makin mods LOL\task tracker\obj\Debug\net6.0\ref\TaskKillTracker.dll
