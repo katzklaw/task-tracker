@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\im makin mods LOL\\task tracker\\TaskKilltracker.csproj": {}
+    "c:\\Users\\Admin\\Desktop\\im makin mods LOL\\task tracker\\TaskKilltracker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\im makin mods LOL\\task tracker\\TaskKilltracker.csproj": {
+    "c:\\Users\\Admin\\Desktop\\im makin mods LOL\\task tracker\\TaskKilltracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\im makin mods LOL\\task tracker\\TaskKilltracker.csproj",
+        "projectUniqueName": "c:\\Users\\Admin\\Desktop\\im makin mods LOL\\task tracker\\TaskKilltracker.csproj",
         "projectName": "TaskKillTracker",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\im makin mods LOL\\task tracker\\TaskKilltracker.csproj",
+        "projectPath": "c:\\Users\\Admin\\Desktop\\im makin mods LOL\\task tracker\\TaskKilltracker.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\im makin mods LOL\\task tracker\\obj\\",
+        "outputPath": "c:\\Users\\Admin\\Desktop\\im makin mods LOL\\task tracker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\Desktop\\im makin mods LOL\\task tracker\\NuGet.Config",
+          "c:\\Users\\Admin\\Desktop\\im makin mods LOL\\task tracker\\NuGet.Config",
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [

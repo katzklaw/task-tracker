@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyDescriptionAttribute(("Shows your own task completion on your nametag, and reveals everyone\'s task compl" +
     "etion + impostor kill counts on the meeting screen while you\'re dead"))]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+052c31d64385d428bfee0fe89af3378f3b46b6a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaskKillTracker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaskKillTracker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

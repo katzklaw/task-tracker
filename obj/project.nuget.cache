@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XLqM5l/Cby0=",
+  "dgSpecHash": "3BjAzxGpKrI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\im makin mods LOL\\task tracker\\TaskKilltracker.csproj",
+  "projectFilePath": "c:\\Users\\Admin\\Desktop\\im makin mods LOL\\task tracker\\TaskKilltracker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\amongus.gamelibs.steam\\2026.6.5\\amongus.gamelibs.steam.2026.6.5.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\asmresolver\\6.0.0-beta.1\\asmresolver.6.0.0-beta.1.nupkg.sha512",
